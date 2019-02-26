@@ -1,6 +1,7 @@
 [submodule "arm-sdk"]
 	path = arm-sdk
-	url = https://github.com/parazyd/arm-sdk
+	url = https://github.com/amesser/maemo-arm-sdk.git
+	branch = wip-librem5-arm-sdk
 [submodule "vm-sdk"]
 	path = vm-sdk
 	url = https://github.com/parazyd/vm-sdk
